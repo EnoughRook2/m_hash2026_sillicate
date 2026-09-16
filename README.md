@@ -21,4 +21,4 @@ python3 evaluate.py           # compares RL vs. baseline, prints trajectories
 ```
 ## Running demo cases
 
-Edit the .json file for the cases and run presentation_demo_2.py (note some of the files use the file name of the case, so its recommended to not change the name of the case files)
+Edit the .json file for the cases and run presentation_demo_2.py --case case_name.json (note some of the files use the file name of the case, so its recommended to not change the name of the case files)
