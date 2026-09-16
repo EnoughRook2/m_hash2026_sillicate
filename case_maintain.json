@@ -1,0 +1,47 @@
+{
+  "borrower_id": "Lakshmi - Textile Trader",
+  "borrower_type": "trader",
+  "tenure_months": 18,
+  "original_emi": 4300,
+  "typical_monthly_income": 15000,
+  "expense_ratio": 0.65,
+  "start_calendar_month": 1,
+  "months": [
+    {
+      "month": 1,
+      "income": 14800,
+      "dti": 0.291,
+      "savings_buffer": 7000,
+      "arrears": 0,
+      "consecutive_missed": 0,
+      "months_remaining": 4
+    },
+    {
+      "month": 2,
+      "income": 15100,
+      "dti": 0.288,
+      "savings_buffer": 7400,
+      "arrears": 0,
+      "consecutive_missed": 0,
+      "months_remaining": 3
+    },
+    {
+      "month": 3,
+      "income": 15400,
+      "dti": 0.285,
+      "savings_buffer": 7800,
+      "arrears": 0,
+      "consecutive_missed": 0,
+      "months_remaining": 2
+    },
+    {
+      "month": 4,
+      "income": 15700,
+      "dti": 0.282,
+      "savings_buffer": 8200,
+      "arrears": 0,
+      "consecutive_missed": 0,
+      "months_remaining": 1
+    }
+  ]
+}

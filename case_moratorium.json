@@ -1,0 +1,47 @@
+{
+  "borrower_id": "Fatima's SHG - Tailoring Unit",
+  "borrower_type": "shg_group",
+  "tenure_months": 24,
+  "original_emi": 4800,
+  "typical_monthly_income": 13500,
+  "expense_ratio": 0.65,
+  "start_calendar_month": 1,
+  "months": [
+    {
+      "month": 1,
+      "income": 12000,
+      "dti": 0.2,
+      "savings_buffer": 5000,
+      "arrears": 0,
+      "consecutive_missed": 0,
+      "months_remaining": 21
+    },
+    {
+      "month": 2,
+      "income": 12200,
+      "dti": 0.198,
+      "savings_buffer": 5200,
+      "arrears": 0,
+      "consecutive_missed": 0,
+      "months_remaining": 20
+    },
+    {
+      "month": 3,
+      "income": 11800,
+      "dti": 0.2,
+      "savings_buffer": 5100,
+      "arrears": 0,
+      "consecutive_missed": 0,
+      "months_remaining": 19
+    },
+    {
+      "month": 4,
+      "income": 3000,
+      "dti": 0.246,
+      "savings_buffer": 500,
+      "arrears": 1200,
+      "consecutive_missed": 1,
+      "months_remaining": 18
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "borrower_id": "Demo Borrower 1",
+  "borrower_type": "trader",
+  "tenure_months": 18,
+  "original_emi": 1800,
+  "typical_monthly_income": 15000,
+  "months": [
+    {"month": 1, "income": 16000, "dti": 0.22, "savings_buffer": 18000, "arrears": 0,    "consecutive_missed": 0, "months_remaining": 18},
+    {"month": 2, "income": 16000, "dti": 0.28, "savings_buffer": 15000, "arrears": 0,    "consecutive_missed": 0, "months_remaining": 17},
+    {"month": 3, "income": 16000, "dti": 0.22, "savings_buffer": 9000,  "arrears": 0,    "consecutive_missed": 0, "months_remaining": 16},
+    {"month": 4, "income": 16000,  "dti": 0.22, "savings_buffer": 14000,  "arrears": 0, "consecutive_missed": 0, "months_remaining": 15},
+    {"month": 5, "income": 16000,  "dti": 0.22, "savings_buffer": 14000,  "arrears": 0, "consecutive_missed": 0, "months_remaining": 14},
+    {"month": 6, "income": 16000, "dti": 0.22, "savings_buffer": 14000,  "arrears": 0, "consecutive_missed": 0, "months_remaining": 13},
+    {"month": 7, "income": 16000, "dti": 0.26, "savings_buffer": 14000,  "arrears": 0, "consecutive_missed": 0, "months_remaining": 12},
+     {"month": 8, "income": 20000, "dti": 0.26, "savings_buffer": 14000,  "arrears": 0, "consecutive_missed": 0, "months_remaining": 11},
+     {"month": 9, "income": 18000, "dti": 0.23, "savings_buffer": 14000,  "arrears": 0, "consecutive_missed": 0, "months_remaining": 10},
+     {"month": 10, "income": 16000, "dti": 0.26, "savings_buffer": 14000,  "arrears": 0, "consecutive_missed": 0, "months_remaining": 9},
+     {"month": 11, "income": 16000, "dti": 0.23, "savings_buffer": 14000,  "arrears": 0, "consecutive_missed": 0, "months_remaining": 8},
+     {"month": 12, "income": 16500, "dti": 0.23, "savings_buffer": 14000,  "arrears": 0, "consecutive_missed": 0, "months_remaining": 7}
+  ]
+}

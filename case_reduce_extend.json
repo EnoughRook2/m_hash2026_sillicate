@@ -1,0 +1,38 @@
+{
+  "borrower_id": "Ramesh",
+  "borrower_type": "trader",
+  "tenure_months": 20,
+  "original_emi": 4600,
+  "typical_monthly_income": 15000,
+  "expense_ratio": 0.65,
+  "start_calendar_month": 10,
+  "months": [
+    {
+      "month": 1,
+      "income": 16000,
+      "dti": 0.287,
+      "savings_buffer": 8000,
+      "arrears": 0,
+      "consecutive_missed": 0,
+      "months_remaining": 9
+    },
+    {
+      "month": 2,
+      "income": 15500,
+      "dti": 0.292,
+      "savings_buffer": 7500,
+      "arrears": 0,
+      "consecutive_missed": 0,
+      "months_remaining": 8
+    },
+    {
+      "month": 3,
+      "income": 7000,
+      "dti": 0.358,
+      "savings_buffer": 3000,
+      "arrears": 2700,
+      "consecutive_missed": 1,
+      "months_remaining": 5
+    }
+  ]
+}
