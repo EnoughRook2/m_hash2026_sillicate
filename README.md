@@ -16,8 +16,8 @@
 
 ```
 pip install gymnasium numpy   # no torch needed for the tabular version
-python3 q_learning_agent.py   # trains, saves q_table.pkl, ~10 seconds
-python3 evaluate.py           # compares RL vs. baseline, prints trajectories
+python q_learning_agent.py   # trains, saves q_table.pkl,
+python evaluate.py           # compares RL vs. baseline, prints trajectories
 ```
 ## Running demo cases
 
