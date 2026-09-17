@@ -164,9 +164,6 @@ layer with a CLI and a browser UI, an audit trail, and diagnostics.
   as ready-made `--case` inputs for `presentation_demo_2.py`.
 - `presentation_case_example.json` - the default bundled example scenario
   `presentation_demo_2.py` loads when no `--case` is given.
-- `testing_com.ipynb` - a scratch notebook used to explore/tune
-  presentation scenarios and inspect the trained agent's behavior
-  interactively.
 
 ## How to run it
 
